@@ -2,9 +2,9 @@
 
 <img src="./greet.gif" align="left" height="50px" width="50px">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" align="right" width="200px" height="200px" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" align="right" width="150px" height="150px" />
 
-# Hi there! I'm Nehuén.
+# Hi! I'm Nehuén.
 
 I'm a **passionate developer** who loves learning and exploring new technologies. I enjoy tackling challenges and creating **innovative solutions** that improve tools I find useful. I don't stick to a specific tech stack; instead, **I like to expand my knowledge** and step out of my comfort zone.
 
