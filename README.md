@@ -20,7 +20,7 @@
 <p align="center" style="max-width: 600px;">
   enthusiast<br>
   of reinventing<br>
-  the wheel.
+  the wheel
 </p>
 
 <br>
