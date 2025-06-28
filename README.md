@@ -1,19 +1,36 @@
----
+<div align="center" style="position: relative; z-index: 1;">
+  <img src="/cat.png" width="84" alt="cat icon"/>
+</div>
 
-<img src="./greet.gif" align="left" height="50px" width="50px">
+<div align="center">
+  <h1>𝙣𝙚𝙝𝙪é𝙣</h1>
+  <sub>code = performance = riir.</sub>
+</div>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" align="right" width="150px" height="150px" />
+<br>
 
-# Hi! I'm Nehuén.
+<div align="center">
+  <code>rust</code> &nbsp; <code>go</code> &nbsp; <code>elixir</code> &nbsp; <code>typescript</code> &nbsp; <code>c</code>
+  <br>
+  &nbsp; <code>compilers</code>&nbsp; <code>p2p</code>&nbsp; <code>backend</code>
+</div>
 
-I'm a **passionate developer** who loves learning and exploring new technologies. I enjoy tackling challenges and creating **innovative solutions** that improve tools I find useful. I don't stick to a specific tech stack; instead, **I like to expand my knowledge** and step out of my comfort zone.
+<br>
 
-I've been coding since I was eleven, and I haven't stopped since! I'm driven to constantly refine my work, aiming to deliver the best version of every project with a **focus on scalability and performance—maybe** I'm a bit of a **perfectionist** when it comes to code.
+<p align="center" style="max-width: 600px;">
+  enthusiast<br>
+  of reinventing<br>
+  the wheel.
+</p>
 
-I also **love animals** (especially **cats 🐱**), **music** from any genre, and of course, **optimizing performance** in everything I do, especially in software 😅.
+<br>
 
-###### Did I mention I love anything labeled _blazing fast_?
+<p align="center">
+  <img src="https://media.tenor.com/NnJae5EoiXwAAAAj/cute-happy.gif" width="70" alt="walking black cat"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehu3n&layout=compact&theme=radical" />
+<br>
 
----
+<div align="center">
+  <a href="https://github.com/nehu3n" target="_blank">[ github is the alley ]</a>
+</div>
